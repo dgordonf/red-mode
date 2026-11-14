@@ -8,11 +8,9 @@
 
 ---
 
-If you've ever been stargazing, on a boat at night, or in a dark room next to someone trying to sleep, you know how bad a bright screen is. Your eyes take 20-30 minutes to adjust to the dark and one white web page wipes it out.
+Looking at a bright screen at night stinks. Red mode makes this better.
 
-That's why pilots, astronomers and the military use red light. The part of your eye that handles the dark barely reacts to it.
-
-Night Light and "warm" filters just tint things orange. Red Mode actually turns off green and blue, so every pixel on every monitor is red only. Your mouse pointer goes red too.
+Pilots, astronomers and the military use red light to keep their vison at night. Now you can too.
 
 ## Install
 
